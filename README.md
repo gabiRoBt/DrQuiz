@@ -1,7 +1,8 @@
+# DrQuiz #
+
 <div align="center">
   <img src="Screenshots/Banner.png" alt="Banner)" width=auto height=auto>
 </div>
-# DrQuiz #
 
 ## Descriere ##
 
