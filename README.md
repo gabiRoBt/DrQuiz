@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="Screenshots/Banner.png" alt="Banner)" width=auto height=auto>
+</div>
 # DrQuiz #
 
 ## Descriere ##
@@ -18,4 +21,7 @@ OS: Windows 10/11 64-bit
 VIDEO CARD: GTX 1050  
 Spatiu de stocare: 1.5 GB  
 
-![Cod]()
+
+## Screenshots ##
+![spoiler](https://github.com/gabiRoBt/DrQuiz4/blob/master/Screenshots/Cover%20Image%201.jpg)  
+![spoiler](https://github.com/gabiRoBt/DrQuiz4/blob/master/Screenshots/Cover%20Image%202.jpg)
