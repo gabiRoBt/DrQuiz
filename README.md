@@ -12,10 +12,10 @@ Jocul este realizat in Unreal Engine 4 folosind sistemul blueprint, demonstrand 
 
 ## Cerinte de sistem ##
 
-CPU: Core i3-3225 3.3 GHz
-RAM: 4 GB
-OS: Windows 10/11 64-bit
-VIDEO CARD: GTX 1050
-Spatiu de stocare: 1.5 GB
+CPU: Core i3-3225 3.3 GHz  
+RAM: 4 GB  
+OS: Windows 10/11 64-bit  
+VIDEO CARD: GTX 1050  
+Spatiu de stocare: 1.5 GB  
 
 ![Cod]()
