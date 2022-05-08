@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Screenshots/Banner.png" alt="Banner" width=1330px height=342px>
+  <img src="Screenshots/Banner.png" alt="Banner" width=auto height=auto>
 </div>
 
 # DrQuiz #
