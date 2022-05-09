@@ -1,0 +1,11 @@
+[FONT=Courier New]<?xml version="1.0" encoding="utf-8" ?>
+<Configuration xmlns="https://www.unrealengine.com/BuildConfiguration">
+  <BuildConfiguration>
+  </BuildConfiguration>
+  <LocalExecutor>
+    <MaxProcessorCount>12</MaxProcessorCount>
+  </LocalExecutor>
+  <ParallelExecutor>
+    <MaxProcessorCount>12</MaxProcessorCount>
+  </ParallelExecutor>
+</Configuration>
