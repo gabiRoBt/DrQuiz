@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="Screenshots/Banner.png" alt="Banner" width=1330px height=auto>
+</div>
+
 # DrQuiz #
 
 ## Descriere ##
@@ -12,7 +16,7 @@ Jocul este realizat in Unreal Engine 4 folosind sistemul blueprint, demonstrand 
 
 ## Cerinte de sistem ##
 
-Specificatii Minime:
+Specificatii Minime:  
 <br>
 CPU: Core i3-3225  
 RAM: 4 GB  
@@ -28,4 +32,7 @@ OS: Windows 10/11 64-bit
 VIDEO CARD: GTX 1050  
 Spatiu de stocare: 1.5 GB  
 
-![Cod]()
+
+## Screenshots ##
+![spoiler](https://github.com/gabiRoBt/DrQuiz4/blob/master/Screenshots/Cover%20Image%201.jpg)  
+![spoiler](https://github.com/gabiRoBt/DrQuiz4/blob/master/Screenshots/Cover%20Image%202.jpg)
