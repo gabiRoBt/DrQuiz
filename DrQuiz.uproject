@@ -24,6 +24,7 @@
 		"AllDesktop",
 		"WindowsNoEditor",
 		"LinuxNoEditor",
-		"LinuxAArch64NoEditor"
+		"LinuxAArch64NoEditor",
+		"Android"
 	]
 }
