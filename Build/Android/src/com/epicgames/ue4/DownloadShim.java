@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import gab1.DrQuiz.OBBDownloaderService;
-import gab1.DrQuiz.DownloaderActivity;
+import gab1smr2.DrQuiz.OBBDownloaderService;
+import gab1smr2.DrQuiz.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import gab1.DrQuiz.OBBData;
+import gab1smr2.DrQuiz.OBBData;
 
 
 public class DownloadShim

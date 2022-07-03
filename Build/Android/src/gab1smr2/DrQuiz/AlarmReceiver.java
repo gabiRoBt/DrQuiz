@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package gab1.DrQuiz;
+package gab1smr2.DrQuiz;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

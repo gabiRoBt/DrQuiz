@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package gab1.DrQuiz;
+package gab1smr2.DrQuiz;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return gab1.DrQuiz.AlarmReceiver.class.getName();
+        return gab1smr2.DrQuiz.AlarmReceiver.class.getName();
     }
 }
